@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm install --legacy-peer-deps",
-    "postinstall": "npm install --force"
+    "build": "npm install --legacy-peer-deps"
   },
   "keywords": [],
   "author": "",
